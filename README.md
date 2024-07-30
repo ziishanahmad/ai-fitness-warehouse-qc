@@ -167,7 +167,4 @@ print(discrepancies)
 - Implement the remaining steps such as performing color and condition checks, evolving the AI model, and automating the picture gathering process.
 - Continuously test and refine the AI model to improve its accuracy and efficiency in QC processes.
 
-Feel free to reach out for any further assistance or customization required for your specific needs.
 
-Best regards,
-Zeeshan Ahmad
